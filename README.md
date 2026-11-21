@@ -16,8 +16,10 @@ vnavmesh 的防卡死增强版：寻路卡住时会先自动跳跃，跳不过�
 https://raw.githubusercontent.com/imztm123/ffxiv_vnavmesh-unstuck-CN/main/pluginmaster.json
 ```
 
-4. 回到「所有插件」标签，搜索 `vnavmesh`，点安装
-5. **重要**：官方仓库里也有一个 vnavmesh，两个会抢同一个 `/vnav` 命令，只能启用一个。装好这个之后，去「已安装」里把官方那个禁用掉
+4. 回到「所有插件」标签，搜索 `vnavmesh unstuck CN`，点安装
+5. **重要**：官方仓库里也有一个 vnavmesh，两个会抢同一个 `/vnav` 命令，只能启用一个。
+6. 如果安装时提示 `Plugin at the provided path is already loaded`，说明官方版仍占着同一个版本目录：去「已安装」把官方那个**禁用**（不要卸载或删除，否则会连带清掉配置），然后**重启游戏**再装。
+7. 配置兼容：除避障外的设置与原版通用，两个版本共用 `pluginConfigs\vnavmesh`，可以直接继承原版配置；但在原版里改过设置并保存后，本版新增的 6 个防卡死参数会回到默认值。
 
 进游戏打 `/vnav` 打开面板，最下面就是「两阶段自动防卡死脱困」区块。
 
