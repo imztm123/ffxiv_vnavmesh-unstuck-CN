@@ -9,8 +9,8 @@ vnavmesh 的防卡死增强版：寻路卡住时会先自动跳跃，跳不过�
 ## 在线安装
 
 1. 游戏里输入 `/xlplugins` 打开插件安装器
-2. 点 **设置** → **测试版** → **自定义插件仓库**
-3. 粘贴下面这个地址，点右边的 **+**，再点保存：
+2. 点 **设置** → **插件** → **第三方插件**
+3. 粘贴下面这个地址，点右边的 **+**，再点最上面的保存更改：
 
 ```
 https://raw.githubusercontent.com/imztm123/ffxiv_vnavmesh-unstuck-CN/main/pluginmaster.json
