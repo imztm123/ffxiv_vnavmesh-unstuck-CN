@@ -1,0 +1,21 @@
+[
+  {
+    "Author": "veyn, xan_0, ZTM",
+    "Name": "vnavmesh unstuck CN",
+    "InternalName": "vnavmesh",
+    "Punchline": "忍不住化身一条固执的鱼！遇到障碍可以通过设置主动尝试脱困的魔改版。",
+    "Description": "vnavmesh 主动避障魔改版：两阶段自动脱困（先自动跳跃，仍卡住则局部屏蔽并重算绕路），全中文界面，保留原版全部功能。\n感谢原作者开源，此版本主要是为了解决我自己在挂机时遇到的一些问题；\n用不到避障功能可以关掉，当做 vnavmesh 的最新汉化版，会持续更新，大概。",
+    "AssemblyVersion": "1.2.3.15",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://github.com/imztm123/vnavmesh-unstuck-CN",
+    "DownloadLinkInstall": "https://github.com/imztm123/vnavmesh-unstuck-CN/releases/download/v1.2.3.15/vnavmesh-1.2.3.15.zip",
+    "DownloadLinkUpdate": "https://github.com/imztm123/vnavmesh-unstuck-CN/releases/download/v1.2.3.15/vnavmesh-1.2.3.15.zip",
+    "IconUrl": "https://raw.githubusercontent.com/imztm123/vnavmesh-unstuck-CN/main/icon.png",
+    "Tags": ["navmesh", "movement", "pathfinding"],
+    "CategoryTags": ["utility"],
+    "LoadPriority": 0,
+    "LastUpdate": 0,
+    "DownloadCount": 0
+  }
+]
