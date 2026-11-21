@@ -2,7 +2,7 @@
 
 vnavmesh 的防卡死增强版：寻路卡住时会先自动跳跃，跳不过去就在前方放一块临时屏蔽区并重新算路绕开；界面全中文。
 
-基于 [awgil/ffxiv_navmesh](https://github.com/awgil/ffxiv_navmesh) 修改，保留原版全部功能，额外加了脱困逻辑和汉化。
+这是一个 Dalamud（卫月）插件，基于 [awgil/ffxiv_navmesh](https://github.com/awgil/ffxiv_navmesh) 修改，保留原版全部功能，额外加了脱困逻辑和汉化。
 
 ---
 
