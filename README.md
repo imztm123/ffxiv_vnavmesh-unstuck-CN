@@ -13,7 +13,7 @@ vnavmesh 的防卡死增强版：寻路卡住时会先自动跳跃，跳不过�
 3. 粘贴下面这个地址，点右边的 **+**，再点保存：
 
 ```
-https://raw.githubusercontent.com/imztm123/vnavmesh-unstuck-CN/main/pluginmaster.json
+https://raw.githubusercontent.com/imztm123/ffxiv_vnavmesh-unstuck-CN/main/pluginmaster.json
 ```
 
 4. 回到「所有插件」标签，搜索 `vnavmesh`，点安装
